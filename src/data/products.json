@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Modern Siyah Kadife Plise Perde",
+      "description": "Hafif ve şık tasarım",
+      "image": "/products/siyah-plise-perde.png",
+      "image2": "/products/siyah-plise-perde-2.png",
+      "heroImage": "/products/siyah-plise-perde-hero.png",
+      "slug": "siyah-plise-perde",
+      "category": "popular",
+      "price": 1299,
+      "pricing": {
+        "type": "metrekare",
+        "unitPrice": 450,
+        "minOrder": 3,
+        "unit": "m²"
+      },
+      "details": "Modern tasarımlı tül perde, gün ışığını yumuşak bir şekilde içeri alırken mahremiyetinizi korur. Yüksek kaliteli kumaştan üretilmiştir.",
+      "features": [
+        "Yüksek kaliteli kumaş",
+        "Kolay temizlenebilir",
+        "UV koruması",
+        "Uzun ömürlü kullanım"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Siyah Fon Perde",
+      "description": "Lüks ve konforlu",
+      "image": "/products/siyah-fon-perde.png",
+      "image2": "/products/siyah-fon-perde-2.png",
+      "heroImage": "/products/siyah-fon-perde-hero.png",
+      "slug": "siyah-fon-perde",
+      "category": "campaign",
+      "price": 2499,
+      "pricing": {
+        "type": "metre",
+        "unitPrice": 850,
+        "minOrder": 2.5,
+        "unit": "m"
+      },
+      "details": "Lüks kadife kumaştan üretilen perde, odanıza zarafet katarken ışık kontrolünü de sağlar. Yüksek opaklık oranına sahiptir.",
+      "features": [
+        "Lüks kadife kumaş",
+        "Tam opaklık",
+        "Ses yalıtımı",
+        "Kolay kullanım"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rulo Perde",
+      "description": "Pratik ve modern",
+      "image": "/products/rulo-perde.jpg",
+      "image2": "/products/rulo-perde-2.jpg",
+      "heroImage": "/products/rulo-perde-hero.jpg",
+      "slug": "rulo-perde",
+      "category": "new",
+      "price": 899,
+      "pricing": {
+        "type": "adet",
+        "unitPrice": 899,
+        "minOrder": 1,
+        "unit": "adet"
+      },
+      "details": "Pratik ve modern tasarımlı rulo perde, küçük alanlar için idealdir. Kolay kullanım ve temizlik imkanı sunar.",
+      "features": [
+        "Pratik kullanım",
+        "Modern tasarım",
+        "Kolay temizlik",
+        "Uzun ömürlü"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zebra Perde",
+      "description": "Modern ve fonksiyonel",
+      "image": "/products/zebra-perde.jpg",
+      "image2": "/products/zebra-perde-2.jpg",
+      "heroImage": "/products/zebra-perde-hero.jpg",
+      "slug": "zebra-perde",
+      "category": "popular",
+      "price": 1799,
+      "pricing": {
+        "type": "metrekare",
+        "unitPrice": 650,
+        "minOrder": 2,
+        "unit": "m²"
+      },
+      "details": "Zebra perde, ışık kontrolünü maksimum seviyede sağlar. Modern tasarımı ile her dekorasyona uyum sağlar.",
+      "features": [
+        "Işık kontrolü",
+        "Modern tasarım",
+        "Kolay kullanım",
+        "Dayanıklı yapı"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Jaluz Perde",
+      "description": "Dayanıklı ve şık",
+      "image": "/products/jaluz-perde.jpg",
+      "image2": "/products/jaluz-perde-2.jpg",
+      "heroImage": "/products/jaluz-perde-hero.jpg",
+      "slug": "jaluz-perde",
+      "category": "campaign",
+      "price": 1599,
+      "pricing": {
+        "type": "metre",
+        "unitPrice": 550,
+        "minOrder": 2.5,
+        "unit": "m"
+      },
+      "details": "Dayanıklı malzemeden üretilen jaluz perde, uzun ömürlü kullanım sunar. Işık kontrolü için idealdir.",
+      "features": [
+        "Dayanıklı malzeme",
+        "Işık kontrolü",
+        "Kolay temizlik",
+        "Modern tasarım"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pleat Perde",
+      "description": "Zarif ve modern",
+      "image": "/products/pleat-perde.jpg",
+      "image2": "/products/pleat-perde-2.jpg",
+      "heroImage": "/products/pleat-perde-hero.jpg",
+      "slug": "pleat-perde",
+      "category": "new",
+      "price": 2199,
+      "pricing": {
+        "type": "metrekare",
+        "unitPrice": 750,
+        "minOrder": 2,
+        "unit": "m²"
+      },
+      "details": "Zarif kıvrımları ile modern bir görünüm sunan pleat perde, her odaya şıklık katar.",
+      "features": [
+        "Zarif tasarım",
+        "Modern görünüm",
+        "Kolay kullanım",
+        "Yüksek kalite"
+      ]
+    }
+  ]
+} 

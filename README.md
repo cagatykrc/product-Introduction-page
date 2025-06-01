@@ -11,11 +11,13 @@ Ana Sayfa
 ![Ana Sayfa](screenshots/homepage2.png)
 ![Ana Sayfa](screenshots/homepage3.png)
 
-Filtreleme Sistemi  
-![Filtreleme](screenshots/filter.png)
+Ürünler Sayfası
+![Filtreleme](screenshots/productpage.png)
 
 Ürün Detay Sayfası  
 ![Ürün Detay](screenshots/product-detail.png)
+![Ürün Detay](screenshots/product-detail2.png)
+![Ürün Detay](screenshots/product-detail3.png)
 
 
 
@@ -33,7 +35,25 @@ Filtreleme Sistemi
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-### 1. Reposu Klonlayın:
+### 1. Bağımlılıkları Yükleyin:
+
 ```bash
-git clone https://github.com/cagatykrc/product-Introduction-page
-cd proje-adi
+npm install
+# veya
+yarn install
+```
+### 2. Build Al (Üretim İçin Derleme):
+
+```bash
+npm run build
+# veya
+yarn build
+```
+
+### 3. Uygulamayı Üretimde Başlat:
+
+```bash
+npm start
+# veya
+yarn start
+```

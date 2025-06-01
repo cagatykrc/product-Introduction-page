@@ -8,6 +8,8 @@ Bu proje, ürünlerin tanıtıldığı ve filtreleme özelliği bulunan basit am
 
 Ana Sayfa  
 ![Ana Sayfa](screenshots/homepage.png)
+![Ana Sayfa](screenshots/homepage2.png)
+![Ana Sayfa](screenshots/homepage3.png)
 
 Filtreleme Sistemi  
 ![Filtreleme](screenshots/filter.png)
